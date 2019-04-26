@@ -2,7 +2,6 @@
 /bower_components
 *.log
 
-
 # compiled output
 /dist
 /.tmp
@@ -10,3 +9,4 @@
 # System Files
 .DS_Store
 Thumbs.db
+package-lock.json
