@@ -26,22 +26,38 @@ npm start
 Follow the [instructions](https://github.com/cobi-bike/DevKit#-test-your-module) to install the COBI.bike Google Chrome Simulator and get familiar with the basics of module development on the COBI platform.
 
 ---
+## Inspiration & Examples
+* Get inspired by our showcases on the [COBI.Bike DevKit site](https://cobi.bike/devkit)
+* Take a testride with one of our example modules in the COBI.Bike iOS app. Requires registration as a developer on [my.cobi.bike](https://my.cobi.bike)
+* Visit our [Showtime Developer Forum](https://forums.cobi.bike/c/showtime) for additional inspiration from the developer community
+* Check out our open source modules
+  - [News](https://github.com/cobi-bike/Module-News)
+  - [Grid](https://github.com/cobi-bike/Module-Grid)
+  - [Ping](https://github.com/cobi-bike/Module-Ping)
+  - [Spotify](https://github.com/cobi-bike/Module-Spotify)
 
-## Credits
-This module uses Open Source components. You can find the source code of their open source projects along with license information below. We acknowledge and are grateful to these developers for their contributions to open source.
-
+## Interface Guidelines
+Read our [Interface Guidelines](interface-guidelines.md) to understand the unique challenges of developing software for bikes and to learn more about how the COBI.Bike system and modules work.
 
 ## Useful DevKit links
-
 * [Debugging Tips & Tricks](https://github.com/cobi-bike/DevKit#debugging-tips--tricks)
 * [Inspiration & Examples](https://github.com/cobi-bike/DevKit#inspiration--examples)
 * [Interface Guidelines](https://github.com/cobi-bike/DevKit#interface-guidelines)
 * [More DevKit Resources](https://github.com/cobi-bike/DevKit#inspiration--examples)
 * [Other Tools & Resources](https://github.com/cobi-bike/DevKit#other-tools--resources)
 
+### More DevKit Resources
+- [FAQ](https://github.com/cobi-bike/DevKit/blob/master/FAQ.md)
+- [Developer Forums](https://forums.cobi.bike)
+- [COBI.Bike DevKit Chrome Extension on Chrome Web Store](https://chrome.google.com/webstore/detail/cobi-devkit-simulator/hpdhkapigojggienmiejhblkhenjdbno)
+- [COBI.Bike DevKit Chrome Extension on Github](https://github.com/cobi-bike/COBI.js-simulator)
+- [COBI.Bike DevKit UI Components](https://github.com/cobi-bike/DevKit-UI)
+- [`COBI.js` reference](https://cobi-bike.github.io/COBI.js/)
+
+## Credits
+This module uses Open Source components. You can find the source code of their open source projects along with license information below. We acknowledge and are grateful to these developers for their contributions to open source.
 
 ## Contributing to this project
-
 Anyone and everyone is welcome to contribute to this project, the [DevKit Simulator](https://github.com/cobi-bike/DevKit-Simulator) and the [DevKit UI Components](https://github.com/cobi-bike/DevKit-UI). Please take a moment to review the [guidelines for contributing](https://github.com/cobi-bike/DevKit/blob/master/CONTRIBUTING.md).
 
 * [Bug reports](https://github.com/cobi-bike/DevKit/blob/master/CONTRIBUTING.md#bugs)
