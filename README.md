@@ -14,11 +14,11 @@ You can easily deploy the module on your own.
 ### Step 1: Clone this repository
 
 ### Step 2: Install
-'''
+```
 npm install
-'''
+```
 
 ### Step 3: Run
-'''
+```
 npm start
-'''
+```
