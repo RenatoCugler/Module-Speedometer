@@ -1,8 +1,10 @@
 # Speedometer - DevKit Module for COBI.Bike
 The DevKit Module "Speedometer" displays your current speed.
 This module was created using [Yeoman](http://yeoman.io) and it allows for rapidly getting started on new [COBI.Bike](https://cobi.bike) projects.
-Part of a collection of Open Source modules for the COBI.Bike system. https://github.com/cobi-bike/devkit
+Part of a collection of Open Source modules for the COBI.Bike system. https://stage.developer.bosch.com/web/cobi.bike-devkit
 <!-- TODO - add module picture here. -->
+
+## Disclaimer
 
 ## Getting Started
 Follow the steps below to download and get the speedometer module running on your computer.
@@ -21,13 +23,13 @@ npm install
 npm start
 ```
 
-### _Optional_: Install COBI.bike DevKit Simulator
+### _Optional_: Install COBI.bike DevKit Simulator to test your module
 
-Follow the [instructions](https://github.com/cobi-bike/DevKit#-test-your-module) to install the COBI.bike Google Chrome Simulator and get familiar with the basics of module development on the COBI platform.
+Follow the [instructions](https://stage.developer.bosch.com/web/cobi.bike-devkit/develop/test-your-module/browser) to install the COBI.bike Google Chrome Simulator and get familiar with the basics of module development on the COBI platform.
 
 ---
 ## Inspiration & Examples
-* Get inspired by our showcases on the [COBI.Bike DevKit site](https://cobi.bike/devkit)
+* Get inspired by our showcases on the [COBI.Bike DevKit site](https://stage.developer.bosch.com/web/cobi.bike-devkit)
 * Take a testride with one of our example modules in the COBI.Bike iOS app. Requires registration as a developer on [my.cobi.bike](https://my.cobi.bike)
 * Visit our [Showtime Developer Forum](https://forums.cobi.bike/c/showtime) for additional inspiration from the developer community
 * Check out our open source modules
@@ -56,6 +58,8 @@ Read our [Interface Guidelines](interface-guidelines.md) to understand the uniqu
 
 ## Credits
 This module uses Open Source components. You can find the source code of their open source projects along with license information below. We acknowledge and are grateful to these developers for their contributions to open source.
+
+//TODO - Add info
 
 ## Contributing to this project
 Anyone and everyone is welcome to contribute to this project, the [DevKit Simulator](https://github.com/cobi-bike/DevKit-Simulator) and the [DevKit UI Components](https://github.com/cobi-bike/DevKit-UI). Please take a moment to review the [guidelines for contributing](https://github.com/cobi-bike/DevKit/blob/master/CONTRIBUTING.md).
