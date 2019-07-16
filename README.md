@@ -6,6 +6,8 @@ Part of a collection of Open Source modules for the COBI.Bike system. https://st
 
 ## Disclaimer
 
+//TODO - add info
+
 ## Getting Started
 Follow the steps below to download and get the speedometer module running on your computer.
  
